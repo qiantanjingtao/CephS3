@@ -1,0 +1,15 @@
+##文件##
+*.class
+*.iml
+*.jar
+*.war
+*.classpath
+*.project
+info.log
+error.log
+index.html
+##目录##
+.idea/
+target/
+.settings/
+app/
